@@ -1,7 +1,13 @@
 body {
     color: white;
+
+    background-color: black;
+ }
+ .control{
+     color:purple;
+
     background-color: #333;
     font-size: 150%;
     font-family: 'Sacramento', cursive;
-    margin: 5em 25%;
+
  }
